@@ -1,0 +1,6 @@
+.DS_Store
+agent-service/ai_agent/.env
+__pycache__
+.venv
+.adk/
+*.g.dart
